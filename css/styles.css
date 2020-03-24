@@ -1,5 +1,8 @@
 .walrus-showing {
   display: none;
+}
+
+.walrus-showing img {
   height: auto;
   width: 200px;
 }
